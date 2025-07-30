@@ -1,8 +1,9 @@
 Tours and Travel Booking Site - MERN Stack Project
-🌍 ## Project Overview
+
+## Project Overview
 Welcome to the repository of my Travel Booking Site, a web application built using the MERN stack. This project aims to deliver a smooth and user-friendly experience for browsing and booking travel tours. Users can search for trips by location, distance, and number of travelers to customize their travel plans. After logging in, users can book tours and leave star ratings and written reviews for each trip.
 
-🛠 Technologies Used
+ ## Technologies Used
 React.js: For building a dynamic and responsive user interface.
 
 Node.js & Express.js: For backend logic and creating RESTful APIs.
@@ -13,7 +14,7 @@ JWT & Cookies: Used for secure authentication and session management.
 
 (Note: Cookie management is yet to be fully implemented.)
 
-🌟 Features
+## Features
 Browse tours with detailed descriptions, images, and pricing.
 
 Book travel tours effortlessly.
